@@ -63,3 +63,10 @@ Github
     cd..
     (상위 폴더 이동)  
 
+
+Git 에러 해결
+    Author identity unknown
+
+        git config --global user.email "깃허브 이메일주소"
+        git config --global user.name "깃허브 이름"
+
